@@ -74,6 +74,7 @@
     <Content Include="Scripts\jquery-2.1.4.min.map" />
     <Content Include="FeedView.aspx" />
     <Content Include="Feed.Master" />
+    <None Include="Properties\PublishProfiles\forms-bootcards.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
